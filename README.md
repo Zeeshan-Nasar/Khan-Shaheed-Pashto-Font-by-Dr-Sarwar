@@ -3,7 +3,7 @@ Khan Shaheed Pashto Font & Keyboard
 by Dr. Sarwar
 Version 1.0 — 2025
 
-![Sample Image](Sample Text.png)
+![Sample Image](SampleText.png)
 
 Description:
 This font and keyboard layout are specially designed for the Pashto language.
