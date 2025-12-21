@@ -3,16 +3,16 @@ Khan Shaheed Pashto Font & Keyboard
 by Dr. Sarwar
 Version 1.0 — 2025
 
+![Sample Image](Sample Text.png)
+
 Description:
 This font and keyboard layout are specially designed for the Pashto language.
 They include five additional letters and important diacritical signs
 that were originally proposed  and published by Khan Shaheed in 1956 but could not be used
 because there was no proper keyboard and font support.
 
-New letters included:
-ٵ    ڌ         ۅ   ۄ     ݺ
-Additional diacritic marks:
-ّ    ٘   ْ    
+![Sample Image](Preview.png)  
+  
 This project makes it possible for the first time to read and write Pashto clearly and correctly with all essential letters and signs.
 
 Author :
