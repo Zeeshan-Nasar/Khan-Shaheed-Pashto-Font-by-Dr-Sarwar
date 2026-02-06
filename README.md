@@ -34,3 +34,15 @@ Included files:
 - KhanShaheedPashtoKeyboard.zip
 - LICENSE.txt
 - Preview.png
+  
+Installation (Windows)
+1. Download and extract the ZIP file.
+2. Install the font:
+   - Right-click KhanShaheedPashtoFont.ttf
+   - Select Install or Install for all users
+3. Install the keyboard:
+   - Extract KhanShaheedPashtoKeyboard.zip
+   - Run the installer
+4. Add the keyboard via:
+   Windows Settings → Time & Language → Language → Pashto (This step will be skipped in Windows 10 & 11)
+Select Khan Shaheed Pashto Keyboard and start typing.
