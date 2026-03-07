@@ -47,3 +47,9 @@ Installation (Windows)
    Windows Settings → Time & Language → Language → Pashto (This step will be skipped in Windows 10 & 11)
    
 Select Khan Shaheed Pashto Keyboard and start typing.
+
+**DOWNLOAD GUIDE**
+1. Click This Link
+https://github.com/Zeeshan-Nasar/Khan-Shaheed-Pashto-Font-by-Dr-Sarwar/releases/tag/font
+
+<img width="1539" height="728" alt="Download Guide" src="https://github.com/user-attachments/assets/cb9cb3f2-69a2-4d81-8909-81cde230d76a" />
